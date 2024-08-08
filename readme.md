@@ -1,6 +1,7 @@
 # Einfache Lineare Regression für Pflegeheim-Daten
 
-Dieses Repository enthält ein Beispiel für eine einfache lineare Regression, die Pflegeheim-Daten verwendet, um die Beziehung zwischen Personalkosten und der Anzahl der verordneten Psychopharmaka zu modellieren.
+Dieses Repository enthält ein Beispiel für eine einfache lineare Regression, die Beispiel-Daten für eine Träger von mehreren Pflegeeinrichtungen verwendet, um die Beziehung zwischen Personalkosten und der Anzahl der verordneten Psychopharmaka zu modellieren.
+Jede Reihe stellt eine Stationseinheit mit z.B. 30 Bewohnern dar und die zweite Spalte die Anzahl der verordneten Psychopharmaka aller Bewohner. Ich stelle einfach einen Zusammenhang (Korrelation), je mehr oder qualifiziertes Personal, umso weniger Psychpharmaka benötigt man. Ob es wirklich so einen Zusammenhang gibt, keine Ahnung, ich glaube so eine Studie will keiner.
 
 ## Datensatz
 
